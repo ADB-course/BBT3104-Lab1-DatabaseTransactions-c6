@@ -8,7 +8,8 @@
 | **Semester Duration**                                                 | 19<sup>th</sup> August - 25<sup>th</sup> November 2024                                                                                                                       |
 
 ## Flowchart
-![Alt text]("C:\Users\nyath\OneDrive\Desktop\Flowchart.jpg")
+
+![Flowchart Image](images\Flowchart.jpg)
 
 ## Pseudocode
 **Step 1.Turn off autocommit;**
@@ -52,3 +53,6 @@
 **Outstanding balance: Calculated as the difference between the total amount and the payments received.**
 
 
+
+
+[flowchart]: "C:\Users\nyath\OneDrive\Desktop\Flowchart.jpg"
